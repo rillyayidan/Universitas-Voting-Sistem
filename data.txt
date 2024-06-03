@@ -1,0 +1,37 @@
+Nama: P
+Umur: 21
+Jenis Kelamin: Laki-Laki
+Pilihan Rektor: Reeve
+Pilihan Wakil Rektor: Lesty
+---------------------------------------
+Nama: Zidan
+Umur: 21
+Jenis Kelamin: Laki-Laki
+Pilihan Rektor: Ray
+Pilihan Wakil Rektor: 
+---------------------------------------
+========== Perolehan Suara Kandidat Rektor ==========
+Reeve: 1 suara
+Ray: 1 suara
+Joko: 0 suara
+======= Perolehan Suara Kandidat Wakil Rektor =======
+Lesty: 1 suara
+Liswan: 0 suara
+Nama: Z
+Umur: 1
+Jenis Kelamin: Laki-Laki
+Pilihan Rektor: 
+Pilihan Wakil Rektor: 
+---------------------------------------
+Nama: Rilly
+Umur: 21
+Jenis Kelamin: Laki-Laki
+Pilihan Rektor: 
+Pilihan Wakil Rektor: 
+---------------------------------------
+Nama: Zidan
+Umur: 18
+Jenis Kelamin: Laki-Laki
+Pilihan Rektor: 
+Pilihan Wakil Rektor: 
+---------------------------------------
